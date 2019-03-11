@@ -13,7 +13,7 @@
 add_action( 'admin_menu', 'wpreact_admin_menu' );
 
 /**
- * Function to add new menu in settings for Bricks
+ * Function to add new menu in settings
  *
  * @since   1.0.0
  */
@@ -28,7 +28,7 @@ function wpreact_admin_menu() {
 }
 
 /**
- * Callback function of Bricks Setting Page - Render the settings page for the Bricks listing.
+ * Callback function of Setting Page
  *
  * @since    1.0.0
  */
