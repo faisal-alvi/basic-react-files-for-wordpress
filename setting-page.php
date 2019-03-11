@@ -35,7 +35,7 @@ function wpreact_admin_menu() {
 function display_wpreact_admin_page() {
 	?>
 	<h1>Welcome..!</h1><br />
-    <div id="root" style="border: 1px solid red; padding : 25px; width: 800px;">This is 'root' div.</div>
+        <div id="root" style="border: 1px solid red; padding : 25px; width: 800px;">This is 'root' div.</div>
 	<?php
 }
 
