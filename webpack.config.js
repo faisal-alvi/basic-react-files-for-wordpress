@@ -5,7 +5,7 @@ module.exports = {
       filename: "./dist/bundle.js"
     },
     module: {
-      loaders: [
+      rules: [
         {
           test: /.jsx$/,
           loader: "babel-loader",
